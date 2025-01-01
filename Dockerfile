@@ -18,7 +18,7 @@
 # Build container
 FROM --platform=${BUILDPLATFORM} eclipse-temurin:17-jdk AS builder
 
-ARG PROJECT_NAME=PhantomBot
+ARG PROJECT_NAME=PhantomBotDE
 ARG PROJECT_VERSION
 ARG BASEDIR=/opt/${PROJECT_NAME}
 ARG BUILDDIR=${BASEDIR}_build
@@ -77,7 +77,7 @@ RUN set -eux; \
 # Application container
 FROM eclipse-temurin:17-jre AS publish
 
-ARG PROJECT_NAME=PhantomBot
+ARG PROJECT_NAME=PhantomBotDE
 ARG PROJECT_VERSION
 ARG BASEDIR=/opt/${PROJECT_NAME}
 ARG BUILDDIR=${BASEDIR}_build

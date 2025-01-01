@@ -1,0 +1,10 @@
+{
+    "discord.accountlink.usage.nolink": "Um dieses Modul zu verwenden, stelle sicher, dass der Bot nicht daran gehindert wird, dir private Nachrichten auf Discord zu senden.\nUm deine Discord- und Twitch-Konten zu verknüpfen, verwende bitte den folgenden Befehl **!account link**",
+    "discord.accountlink.usage.link": "Dein Discord-Konto ist derzeit mit **https://twitch.tv/$1** verknüpft.\nDu kannst es mit **!account link** ändern oder es mit **!account remove** entfernen.",
+    "discord.accountlink.link": "**HINWEIS: Dies läuft in 10 Minuten ab**.\nUm den Verknüpfungsprozess zwischen deinem Discord- und Twitch-Konto abzuschließen, melde dich bitte bei Twitch an, gehe zu **https://twitch.tv/$1** und sende den Befehl **!account link $2**",
+    "discord.accountlink.link.relink": "**HINWEIS: Dies läuft in 10 Minuten ab**.\n**Dies wird automatisch deine vorherige Kontoverknüpfung entfernen.** \nUm den Verknüpfungsprozess zwischen deinem Discord- und Twitch-Konto abzuschließen, melde dich bitte bei Twitch an, gehe zu **https://twitch.tv/$1** und sende den Befehl **!account link $2**",
+    "discord.accountlink.link.success": "Dein Discord-Konto wurde erfolgreich mit **https://twitch.tv/$1** verknüpft.\nBitte beachte, dass du diesen Vorgang erneut durchführen musst, wenn du deinen Namen auf Twitch änderst.",
+    "discord.accountlink.link.fail": "Entschuldigung, das ist ein ungültiges oder abgelaufenes Token. Stelle sicher, dass du den Befehl zur Kontoverknüpfung GENAU so kopierst. Wenn du sicher bist, dass du es richtig eingegeben hast, starte den Verknüpfungsprozess bitte erneut in einem Chat-Kanal auf dem Discord-Server.",
+    "discord.accountlink.link.remove": "Dein Discord-Konto wurde von allen Twitch-Konten getrennt.\nUm dein Discord-Konto mit deinem Twitch-Konto zu verknüpfen, verwende **!account link** in einem regulären Chat-Kanal auf dem Discord-Server.",
+    "discord.accountlink.linkrequired": "Entschuldigung, dieser Befehl ist nur in Discord verfügbar, nachdem dein Twitch-Konto mit **!account** verknüpft wurde."
+}

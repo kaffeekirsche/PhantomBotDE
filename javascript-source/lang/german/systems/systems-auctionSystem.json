@@ -1,0 +1,23 @@
+{
+    "auctionsystem.usage": "Verwendung: !auction open (Erhöhungen) (Mindestgebot) [Optionale Parameter: (automatischer Schließ-Timer) (nopoints)]",
+    "auctionsystem.set.usage": "Verwendung: !auction set (Verlängerungstimer). Es sind maximal 29 und mindestens 6 erlaubt",
+    "auctionsystem.set": "Verlängerungszeit erfolgreich auf $1 gesetzt",
+    "auctionsystem.err.opened": "Eine Auktion läuft bereits.",
+    "auctionsystem.opened": "Auktion ist jetzt eröffnet! Sie können in Erhöhungen von mindestens $1 bieten. Mindestgebot beträgt $2! Beginnen Sie mit dem Bieten mit !bid (Betrag)",
+    "auctionsystem.auto.timer.msg": "Die Auktion wird in $1 Sekunden automatisch geschlossen!",
+    "auctionsystem.err.closed": "Derzeit läuft keine Auktion.",
+    "auctionsystem.err.no.bids": "Auktion geschlossen! Es wurde kein Gebot abgegeben.",
+    "auctionsystem.closed": "Auktion geschlossen! Der Gewinner dieser Auktion ist $1 mit $2! Herzlichen Glückwunsch!",
+    "auctionsystem.warnTime.force": "Die Auktion schließt in $1 Sekunden! Der aktuelle Höchstbieter ist $2 mit $3! Gibt es $4?",
+    "auctionsystem.warnTime.newBid": "Neuer Höchstbieter ist $2 mit $3! Die Auktion bleibt weitere $1 Sekunden geöffnet! Gibt es $4?",
+    "auctionsystem.warnTime": "Die Auktion schließt in $1 Sekunden! Der aktuelle Höchstbieter ist $2 mit $3!",
+    "auctionsystem.warn.force": "Die Auktion steht kurz vor dem Ende! Der aktuelle Höchstbieter ist $1 mit $2! Gibt es $3?",
+    "auctionsystem.warn": "Aktueller Höchstbieter ist $1 mit $2!",
+    "auctionsystem.bid.usage": "Verwendung: !bid (Betrag)",
+    "auctionsystem.err.bid.minimum": "Sie können nicht unter $1 bieten!",
+    "auctionsystem.err.points": "Sie haben nicht genug $1, um zu bieten. Ihr Kontostand beträgt $2",
+    "auctionsystem.err.increments": "Diese Auktion erfolgt in Erhöhungen von $1! Nächstes Gebot beträgt $2",
+    "auctionsystem.bid": "$1 hat gerade $2 geboten! Gibt es $3?",
+    "auctionsystem.lastWinner.err": "Keine Auktion wurde bisher abgeschlossen! Kein Gewinner anzuzeigen.",
+    "auctionsystem.lastWinner": "Das letzte Gebot der Auktion war $2 von $1! Herzlichen Glückwunsch!"
+}

@@ -1,0 +1,5 @@
+{
+    "cleanupsystem.run.progress": "Die Bereinigung beginnt, $1 könnte während dieses Prozesses nicht reagieren oder langsam sein. Dies könnte einige Zeit dauern...",
+    "cleanupsystem.run.success": "Die Bereinigung ist abgeschlossen!",
+    "cleanupsystem.run.usage": "Verwendung: !cleanup [time / points / all] [Menge an Zeit in Sekunden oder Punkte, wenn Punkte bereinigt werden]"
+}

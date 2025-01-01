@@ -1,0 +1,12 @@
+{
+    "bitshandler.toggle.off": "Bits-Ankündigungen wurden deaktiviert.",
+    "bitshandler.toggle.on": "Bits-Ankündigungen wurden aktiviert.",
+    "bitshandler.rewardmulttoggle.off": "Bits-Belohnung ist jetzt ein konstanter Wert.",
+    "bitshandler.rewardmulttoggle.on": "Bits-Belohnung ist jetzt ein multiplikativer Faktor der Anzahl der Bits.",
+    "bitshandler.message.usage": "Verwendung: !bitsmessage (Nachricht) - Tags: (name), (amount), (message)",
+    "bitshandler.message.set": "Bits-Nachricht wurde auf: $1 gesetzt.",
+    "bitshandler.reward.usage": "Verwendung: !bitsreward (Betrag)",
+    "bitshandler.reward.set": "Bits-Belohnung wurde auf: $1 gesetzt.",
+    "bitshandler.minimum.usage": "Verwendung: !bitsminimum (Betrag)",
+    "bitshandler.minimum.set": "Bits-Mindestbetrag wurde auf $1 Bits festgelegt."
+}

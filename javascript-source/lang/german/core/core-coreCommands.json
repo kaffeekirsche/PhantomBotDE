@@ -1,0 +1,15 @@
+{
+    "corecommands.shoutout.usage": "Verwendung: !$1 (Streamer)",
+    "corecommands.shoutout.offline": "Gib $1 einen Follow unter $2 - zuletzt gesehen beim Spielen von: $3!",
+    "corecommands.shoutout.online": "Gib $1 einen Follow unter $2 - sie spielen gerade: $3!",
+    "corecommands.shoutoutapi.enable": "!shoutout wird nun auch den Twitch-/shoutout-Befehl auslösen.",
+    "corecommands.shoutoutapi.disable": "!shoutout wird den Twitch-/shoutout-Befehl nicht mehr auslösen.",
+    "corecommands.shoutout.no.game": "Hey! Gib $1 einen Follow unter $2!",
+    "corecommands.settimevar.usage": "Verwendung: !settimevar (varName) (Optional: Zeit, die eingestellt werden soll)",
+    "corecommands.settimevar.success": "Die Zeitvariable $1 wurde auf $2 gesetzt.",
+    "corecommands.synconline.success": "Synchronisiere Titel, Spiel und Online-Status mit der Twitch-API. Dies kann einen Moment dauern.",
+    "corecommands.synconline.failure": "Der Streamstatus-Cache ist noch nicht bereit, bitte versuche es in 30 Sekunden erneut.",
+    "corecommands.setcommandrestriction.usage": "Verwendung: !setcommandrestriction [none/online/offline] [Befehl] (Unterbefehl) - Die Unterbefehl-Variable ist optional.",
+    "corecommands.setcommandrestriction.error": "$1 !$2 existiert nicht!",
+    "corecommands.setcommandrestriction.success": "Die $1-Beschränkung für !$2 wurde erfolgreich auf $3 geändert."
+}

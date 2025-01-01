@@ -1,0 +1,12 @@
+{
+    "discord.cliphandler.toggle.off": "Clips-Ankündigungen wurden deaktiviert.",
+    "discord.cliphandler.toggle.on": "Clips-Ankündigungen wurden aktiviert.",
+    "discord.cliphandler.message.usage": "Verwendung: !clipsmessage (Nachricht) - Tags: (name), (url)",
+    "discord.cliphandler.message.set": "Clips-Nachricht wurde auf: $1 gesetzt.",
+    "discord.cliphandler.channel.usage": "Verwendung: !clipschannel (Kanal). Derzeit: $1",
+    "discord.cliphandler.channel.set": "Clips-Kanal wurde auf: $1 gesetzt.",
+    "discord.cliphandler.noclip": "Kein Clip gefunden",
+    "discord.cliphandler.lastclip": "Letzter Clip: $1",
+    "discord.cliphandler.topclip": "Heutiger meistgesehener Clip: $1",
+    "discord.cliphandler.clip.embedtitle": "Neuer Clip!"
+}

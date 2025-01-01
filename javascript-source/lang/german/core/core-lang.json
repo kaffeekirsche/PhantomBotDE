@@ -1,0 +1,9 @@
+{
+    "lang.curlang": "Die aktuelle Sprache ist $1!",
+    "lang.lang.404": "Diese Sprachdatei existiert nicht!",
+    "lang.lang.changed": "Sprache geändert zu $1!",
+    "lang.response.action.disabled": "Chatausgaben werden als normaler Text angezeigt. (ohne /me)",
+    "lang.response.action.enabled": "Chatausgaben werden mit \"/me\" versehen.",
+    "lang.response.disabled": "Antworten sind jetzt deaktiviert! Um sie zu aktivieren, benutze !mute",
+    "lang.response.enabled": "Antworten sind jetzt aktiviert! Um sie zu deaktivieren, benutze: !mute"
+}

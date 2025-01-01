@@ -1,0 +1,12 @@
+{
+    "logging.enabled.files": "Datei- und Chat-Protokollierung wurde aktiviert!",
+    "logging.disabled.files": "Datei- und Chat-Protokollierung wurde deaktiviert!",
+    "logging.enabled.event": "Ereignisprotokollierung wurde aktiviert!",
+    "logging.disabled.event": "Ereignisprotokollierung wurde deaktiviert!",
+    "logging.enabled.error": "Fehlerprotokollierung wurde aktiviert!",
+    "logging.disabled.error": "Fehlerprotokollierung wurde deaktiviert!",
+    "logging.usage": "Verwendung: !log [files / errors / events]",
+    "logging.rotatedays.usage": "Verwendung: !log rotatedays [Tage]. 0, um alle Logs zu behalten. Derzeit: $1",
+    "logging.rotatedays.success": "Logs werden alle $1 Tage rotiert.",
+    "logging.rotatedays.success.off": "Logs werden nicht rotiert."
+}

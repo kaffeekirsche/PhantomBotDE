@@ -1,0 +1,18 @@
+{
+    "audiohook.usage": "Verwendung: !audiohook [play / list / customcommand / togglemessages]",
+    "audiohook.play.usage": "Verwendung: !audiohook play [audio_hook]",
+    "audiohook.play.404": "Audiohook existiert nicht: $1",
+    "audiohook.play.success": "Audiohook gesendet: $1",
+    "audiohook.list": "Audio Hooks: $1",
+    "audiohook.list.total": "Gesamtseiten: $1",
+    "audiohook.toggle": "Audio-Nachrichten wurden auf $1 gesetzt.",
+    "audiohook.customcommand.usage": "Verwendung: !audiohook customcommand [add / remove] [command] [sound name]",
+    "audiohook.customcommand.add.usage": "Verwendung: !audiohook customcommand add [command] [sound name]",
+    "audiohook.customcommand.add.error.exists": "Dieser Befehl existiert bereits oder ist ein Alias.",
+    "audiohook.customcommand.add.list": "Befehl !$1 gibt jetzt eine Liste aller Audiohook-Befehle aus.",
+    "audiohook.customcommand.add.error.fx.null": "Dieser Audiohook existiert nicht. Verwenden Sie: \"!audioHook list\", um die Liste der Audios zu sehen.",
+    "audiohook.customcommand.add.success": "Befehl !$1 wird jetzt den Audiohook $2 auslösen!",
+    "audiohook.customcommand.remove.usage": "Verwendung: !audiohook customcommand remove [command]",
+    "audiohook.customcommand.remove.error.404": "Dieser Befehl existiert nicht.",
+    "audiohook.customcommand.remove.success": "Befehl !$1 wurde entfernt."
+}

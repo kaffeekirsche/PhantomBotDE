@@ -1,0 +1,20 @@
+{
+    "channelpointshandler.config.failed": "Keine Channel-Point-Einlösung erkannt. Bitte versuche es erneut. Bei Problemen besuche bitte den PhantomBot Discord: discord.com/invite/YKvMd78",
+    "channelpointshandler.command.info": "Konvertiert die Einlösung in einen Befehl und verarbeitet dann die Befehls-Tags, als ob ein benutzerdefinierter Befehl als Bot aufgerufen wurde. Siehe \"!channelpoints add\" zur Konfiguration, \"!channelpoints usage\" für die Verwendung oder \"!channelpoints example\" für ein Beispiel.",
+    "channelpointshandler.command.usage": "Verwendung: !channelpoints [usage / example / list / get / add / edit / remove]",
+    "channelpointshandler.command.example": "Beispiel: !channelpoints add Danke für das Einlösen @(cpdisplayname)! (playsound applause)",
+    "channelpointshandler.command.list": "Aktive Befehlseinlösungs-IDs: $1",
+    "channelpointshandler.command.get": "Der Befehl für die Channel-Point-Einlösungs-ID $1 ist: $2",
+    "channelpointshandler.command.get.usage": "Verwendung: !channelpoints get (Einlösungs-ID)",
+    "channelpointshandler.command.get.404": "Es gibt keinen Befehl für die Channel-Point-Einlösungs-ID $1",
+    "channelpointshandler.command.add.usage1": "Verwendung: !channelpoints add (benutzerdefinierte Befehl-Definition)",
+    "channelpointshandler.command.add.usage2": "Wenn eingelöst, wird die (benutzerdefinierte Befehl-Definition) auf die gleiche Weise verarbeitet wie ein benutzerdefinierter Befehl, der mit !addcom erstellt wurde. Der (Sender) wird $1 sein und ADMIN-Berechtigungen haben.",
+    "channelpointshandler.command.add.usage3": "Daten über die Einlösung können mit Befehlstags mit dem Label channelpointsevent abgerufen werden, weitere Informationen findest du in den Anleitungen.",
+    "channelpointshandler.command.add.start": "Channel-Points-Befehlskonfiguration aktiv. Bitte löse die gewünschte Einlösung ein.",
+    "channelpointshandler.command.add.complete": "Channel-Points-Befehlskonfiguration abgeschlossen. Einlösung $1 ist jetzt registriert als: $2",
+    "channelpointshandler.command.add.failed": "Befehlseinlösung konnte nicht konfiguriert werden. Einlösung $1 ist bereits einer Belohnung zugeordnet.",
+    "channelpointshandler.command.edit.usage1": "Verwendung: !channelpoints edit (Einlösungs-ID) (benutzerdefinierte Befehl-Definition)",
+    "channelpointshandler.command.edit": "Einlösung $1 ist jetzt registriert als: $2",
+    "channelpointshandler.command.remove.usage": "Verwendung: !channelpoints remove (Einlösungs-ID)",
+    "channelpointshandler.command.remove": "Befehlseinlösung für Einlösung $1 entfernt."
+}

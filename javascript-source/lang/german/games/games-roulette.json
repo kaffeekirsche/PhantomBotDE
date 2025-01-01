@@ -1,0 +1,20 @@
+{
+    "roulette.win.1": "Der Abzug wird betätigt, und der Revolver klickt. $1 hat das Roulette überlebt!",
+    "roulette.win.2": "Der Abzug wird betätigt, aber der Revolver funktioniert nicht! $1 hat Glück und lebt einen weiteren Tag!",
+    "roulette.win.3": "Der Abzug wird betätigt, aber $1 wurde durch Magie gerettet!",
+    "roulette.win.4": "Der Abzug wird betätigt, aber $1 hat überlebt, weil er sowieso nichts im Schädel hatte.",
+    "roulette.win.5": "Der Abzug wird betätigt, aber $1's Schädel war so dick, dass die Kugel ihn nicht durchdringen konnte.",
+    "roulette.win.6": "Der Abzug wird betätigt, aber $1 hat Raum und Zeit gestoppt und der Kugel ausgewichen!",
+    "roulette.win.7": "Der Abzug wird betätigt, aber $1 starb nicht durch die Kugel, die Kugel starb durch ihn.",
+    "roulette.lost.1": "Der Abzug wird betätigt, und der Revolver feuert! $1 liegt tot im Chat.",
+    "roulette.lost.2": "Der Abzug wird betätigt, und $1 verliert den Kopf!",
+    "roulette.lost.3": "$1's Finger gleitet über den Abzug, $1 stürzt wie ein Mehlsack zu Boden!",
+    "roulette.lost.4": "Der Abzug wird betätigt, und die Handkanone geht mit einem Knall los! $1 liegt tot im Chat.",
+    "roulette.lost.5": "Der Hammer fällt, und der .44 feuert! $1 ist jetzt tot im Chat.",
+    "roulette.lost.6": "Der Abzug wird betätigt, und der Revolver feuert! $1 ist jetzt nur noch ein Blutfleck an der Wand.",
+    "roulette.lost.7": "Der Abzug wird betätigt, und der Revolver feuert! $1 hat sein elendes Leben beendet.",
+    "roulette.set.timeouttime.success": "Das !roulette Timeout wurde auf $1 Sekunden gesetzt!",
+    "roulette.set.timeouttime.usage": "Verwendung: !roulette timeout [seconds]",
+    "roulette.timeout.notifyuser": "Du hast das Roulette verloren und wurdest für $1 Sekunden getimeoutet.",
+    "roulette.console.loaded": "Roulette-Nachrichten gefunden: $1 Siege, $2 Niederlagen."
+}

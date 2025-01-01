@@ -1,0 +1,20 @@
+{
+    "tipeeestream.donation.new": "Vielen Dank (name) für das Trinkgeld von (amount)(currency)!",
+    "tipeeestream.donation.newreward": "Vielen Dank (name) für das Trinkgeld von $(amount) (currency)! Hier sind (points) (pointname)!",
+    "tipeeestream.donations.usage": "Verwendung: !tipeeestream (announce | rewardmultiplier n.n | message | lastmessage)",
+    "tipeeestream.donations.announce.disable": "Trinkgelder werden nicht mehr angekündigt.",
+    "tipeeestream.donations.announce.enable": "Trinkgelder werden nun angekündigt.",
+    "tipeeestream.donations.reward.usage": "Verwendung: !tipeeestream rewardmultiplier n.n  Setze auf 0, um zu deaktivieren",
+    "tipeeestream.donations.reward.success": "Die Belohnung für Trinkgelder wurde auf $1 $2 pro gespendeter Währungseinheit festgelegt.",
+    "tipeeestream.donations.message.usage": "Verwendung: !tipeeestream message [message...] Tags: (name) (amount) (currency) (currencysymbol) (message)",
+    "tipeeestream.donations.rewardmessage.usage": "Verwendung: !tipeeestream rewardmessage [message...] Tags: (name) (amount) (currency) (reward) (message)",
+    "tipeeestream.donations.message.no-name": "Ein (name) Tag wurde nicht bereitgestellt, mindestens muss der (name) Tag enthalten sein. Tags: (name) (amount) (currency) (message)",
+    "tipeeestream.donations.rewardmessage.no-name": "Ein (name) Tag wurde nicht bereitgestellt, mindestens muss der (name) Tag enthalten sein. Tags: (name) (amount) (currency) (reward) (message)",
+    "tipeeestream.donations.message.success": "Die Nachricht für Trinkgelder wurde aktualisiert, wenn Belohnungen deaktiviert sind.",
+    "tipeeestream.donations.rewardmessage.success": "Die Nachricht für Trinkgelder mit Belohnungen wurde aktualisiert.",
+    "tipeeestream.donations.lastmessage.success": "Die Nachricht für den !lasttip-Befehl wurde aktualisiert.",
+    "tipeeestream.enabled.donators": "Die Gruppe der Spender wurde aktiviert.",
+    "tipeeestream.disabled.donators": "Die Gruppe der Spender wurde deaktiviert.",
+    "tipeeestream.donators.min": "Das Minimum, um zum Spender befördert zu werden, wurde auf $1 festgelegt.",
+    "tipeeestream.donators.min.usage": "Verwendung: !tipeeestream minmumbeforepromotion (amount)"
+}
